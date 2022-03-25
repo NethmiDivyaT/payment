@@ -1,0 +1,35 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    #4d4dff,
+    #6666ff,
+    #8080ff,
+    #9999ff,
+    #b3b3ff
+  );
+  align-items: center;
+  margin-left: 45%;
+  margin-top: 10%;
+}
+
+button {
+  margin: auto;
+  background-image: linear-gradient(to right, #0099cc, #00bfff);
+  color: white;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  padding: 15px;
+  border-radius: 30px;
+  border-color: #00004d;
+  margin-bottom: 50px;
+}
+
+button:hover {
+  background-image: linear-gradient(to right, #00bfff, #0099cc);
+}
+
+img {
+  margin: auto;
+  margin-left: -20%;
+}
